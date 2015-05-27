@@ -3,4 +3,5 @@
 
 git new 5.27
 
-create a new brach is quick & simple
+
+creating a new branch is quick and simple
